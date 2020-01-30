@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Skrypin UA", Skrypin UA
-http://play.lanet.tv/index/1008.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Ланет INFO", Ланет INFO
-http://play.lanet.tv/index/2010.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Ланет LIVE", Ланет LIVE
-http://play.lanet.tv/index/2008.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Ланет FLIX", Ланет FLIX
 http://play.lanet.tv/index/2001.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Ланет PLAY", Ланет PLAY
 http://play.lanet.tv/index/2003.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Ланет FIGHT", Ланет FIGHT
-http://play.lanet.tv/index/2006.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Ланет BRAIN", Ланет BRAIN
 http://play.lanet.tv/index/2007.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Ланет HOME", Ланет HOME
@@ -43,10 +35,6 @@ http://play.lanet.tv/index/9005.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/9053.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Бігус.Інфо", Бігус.Інфо
 http://play.lanet.tv/index/1016.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Спорт 1 Baltic", Спорт 1 Baltic
-http://play.lanet.tv/index/9154.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Спорт 2 Baltic", Спорт 2 Baltic
-http://play.lanet.tv/index/9162.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="ТЕТ", ТЕТ
 http://play.lanet.tv/index/9010.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Україна", Україна
@@ -57,8 +45,6 @@ http://play.lanet.tv/index/9016.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/9035.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="М1", М1
 http://play.lanet.tv/index/9013.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="ПравдаТУТ", ПравдаТУТ
-http://play.lanet.tv/index/9094.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="К1", К1
 http://play.lanet.tv/index/9012.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="English Club TV", English Club TV
@@ -81,18 +67,12 @@ http://play.lanet.tv/index/1001.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/9028.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Південна Хвиля", Південна Хвиля
 http://play.lanet.tv/index/1009.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Спорт 1", Спорт 1
-http://play.lanet.tv/index/9062.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Спорт 2", Спорт 2
-http://play.lanet.tv/index/9064.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="УНІАН", УНІАН
 http://play.lanet.tv/index/9065.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Da Vinci Learning", Da Vinci Learning
 http://play.lanet.tv/index/9068.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Zee TV", Zee TV
 http://play.lanet.tv/index/9077.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Перший Західний", Перший Західний
-http://play.lanet.tv/index/9099.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Travel Channel", Travel Channel
 http://play.lanet.tv/index/8122.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Nickelodeon", Nickelodeon
@@ -105,36 +85,22 @@ http://play.lanet.tv/index/9125.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/9025.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="М2", М2
 http://play.lanet.tv/index/9029.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Футбол 1", Футбол 1
-http://play.lanet.tv/index/8181.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Футбол 2", Футбол 2
-http://play.lanet.tv/index/8182.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Прямий", Прямий
-http://play.lanet.tv/index/9011.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Бігуді", Бігуді
 http://play.lanet.tv/index/9047.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="History", History
 http://play.lanet.tv/index/8054.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Сонце", Сонце
 http://play.lanet.tv/index/9063.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="UA: Перший", UA: Перший
-http://play.lanet.tv/index/9001.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="НТН", НТН
 http://play.lanet.tv/index/9009.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Nick Junior", Nick Junior
 http://play.lanet.tv/index/9088.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="FoodNetwork", FoodNetwork
 http://play.lanet.tv/index/8095.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="ATR", ATR
-http://play.lanet.tv/index/9057.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Рада", Рада
-http://play.lanet.tv/index/9018.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Мега", Мега
 http://play.lanet.tv/index/9021.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Бужнет ТВ", Бужнет ТВ
 http://play.lanet.tv/index/9129.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="ЧП.info", ЧП.info
-http://play.lanet.tv/index/9039.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Enter-фільм", Enter-фільм
 http://play.lanet.tv/index/9023.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="O-TV", O-TV
@@ -143,46 +109,26 @@ http://play.lanet.tv/index/9026.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/9087.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Київ", Київ
 http://play.lanet.tv/index/9003.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Еко TV", Еко TV
-http://play.lanet.tv/index/9045.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Чорноморська ТРК", Чорноморська ТРК
-http://play.lanet.tv/index/9051.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Малятко TV", Малятко TV
 http://play.lanet.tv/index/9052.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Перший Діловий", Перший Діловий
 http://play.lanet.tv/index/9037.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Кіно 1", Кіно 1
 http://play.lanet.tv/index/9155.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="КРТ", КРТ
-http://play.lanet.tv/index/9049.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="MostVideo", MostVideo
 http://play.lanet.tv/index/1005.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Lale", Lale
 http://play.lanet.tv/index/9097.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="8 канал", 8 канал
 http://play.lanet.tv/index/9055.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="UA: Культура", UA: Культура
-http://play.lanet.tv/index/9066.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Deutsche Welle", Deutsche Welle
-http://play.lanet.tv/index/9078.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="CNL", CNL
-http://play.lanet.tv/index/9089.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="К2", К2
 http://play.lanet.tv/index/9020.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="France 24", France 24
-http://play.lanet.tv/index/9081.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Milady", Milady
 http://play.lanet.tv/index/9085.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="ZIK", ZIK
 http://play.lanet.tv/index/9031.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Глас", Глас
-http://play.lanet.tv/index/9043.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Надія", Надія
-http://play.lanet.tv/index/9076.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Піксель", Піксель
 http://play.lanet.tv/index/9030.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Eurosport 1", Eurosport 1
-http://play.lanet.tv/index/8110.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Boutique TV", Boutique TV
 http://play.lanet.tv/index/9059.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Duck TV", Duck TV
@@ -207,16 +153,12 @@ http://play.lanet.tv/index/8189.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/9061.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Viasat Explore", Viasat Explore
 http://play.lanet.tv/index/9092.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="BBC World News", BBC World News
-http://play.lanet.tv/index/9134.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Квартал TV", Квартал TV
 http://play.lanet.tv/index/9133.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Sony Channel", Sony Channel
 http://play.lanet.tv/index/8138.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Sony Sci-Fi", Sony Sci-Fi
 http://play.lanet.tv/index/9139.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Fine Living", Fine Living
-http://play.lanet.tv/index/9140.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Travel+Adventure", Travel+Adventure
 http://play.lanet.tv/index/8141.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="TV1000 World Kino", TV1000 World Kino
@@ -225,8 +167,6 @@ http://play.lanet.tv/index/9142.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/9130.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Трофей HD", Трофей HD
 http://play.lanet.tv/index/9115.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Трофей", Трофей
-http://play.lanet.tv/index/8115.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="MTV Live HD", MTV Live HD
 http://play.lanet.tv/index/9118.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="MTV Dance", MTV Dance
@@ -239,36 +179,22 @@ http://play.lanet.tv/index/9147.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/9148.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="VH1 Classic", VH1 Classic
 http://play.lanet.tv/index/9149.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Белсат ТВ", Белсат ТВ
-http://play.lanet.tv/index/9153.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Настоящее время", Настоящее время
 http://play.lanet.tv/index/9119.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Bambarbia TV", Bambarbia TV
 http://play.lanet.tv/index/9156.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="UA: Житомир", UA: Житомир
-http://play.lanet.tv/index/1012.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="ILand", ILand
 http://play.lanet.tv/index/1013.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="UA: Донбас", UA: Донбас
-http://play.lanet.tv/index/1014.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="UA: Крим", UA: Крим
-http://play.lanet.tv/index/9163.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Галичина", Галичина
-http://play.lanet.tv/index/9166.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Bolt", Bolt
 http://play.lanet.tv/index/8167.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="StarCinema", StarCinema
 http://play.lanet.tv/index/8169.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="3 Студія", 3 Студія
 http://play.lanet.tv/index/9171.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Вежа", Вежа
-http://play.lanet.tv/index/9173.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="PAI", PAI
 http://play.lanet.tv/index/9174.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="AMC", AMC
 http://play.lanet.tv/index/9170.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="ПравдаТУТ Київ", ПравдаТУТ Київ
-http://play.lanet.tv/index/1017.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="StarFamily", StarFamily
 http://play.lanet.tv/index/8105.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="National Geographic", National Geographic
@@ -281,14 +207,8 @@ http://play.lanet.tv/index/8100.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/8101.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="FilmUA Drama", FilmUA Drama
 http://play.lanet.tv/index/8180.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Всі новини", Всі новини
-http://play.lanet.tv/index/9183.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Перший Київський", Перший Київський
-http://play.lanet.tv/index/9184.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Вінтаж", Вінтаж
 http://play.lanet.tv/index/9185.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="XSport", XSport
-http://play.lanet.tv/index/9056.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="12 канал", 12 канал
 http://play.lanet.tv/index/1018.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Paramount Comedy", Paramount Comedy
@@ -297,18 +217,12 @@ http://play.lanet.tv/index/9188.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/1019.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Discovery Channel", Discovery Channel
 http://play.lanet.tv/index/9135.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="ПравдаТУТ Львів", ПравдаТУТ Львів
-http://play.lanet.tv/index/9196.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Epic Drama", Epic Drama
 http://play.lanet.tv/index/8199.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="UA: Рівне", UA: Рівне
-http://play.lanet.tv/index/9200.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="4 канал", 4 канал
 http://play.lanet.tv/index/9203.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Spike", Spike
 http://play.lanet.tv/index/9204.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Донеччина TV", Донеччина TV
-http://play.lanet.tv/index/1020.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Антена", Антена
 http://play.lanet.tv/index/1021.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="NASA.TV", NASA.TV
@@ -319,8 +233,6 @@ http://play.lanet.tv/index/9208.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/9201.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Рівне 1", Рівне 1
 http://play.lanet.tv/index/1022.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Дніпро TV", Дніпро TV
-http://play.lanet.tv/index/1023.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Discovery TLC", Discovery TLC
 http://play.lanet.tv/index/9195.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Наш Kids", Наш Kids
@@ -331,10 +243,6 @@ http://play.lanet.tv/index/9210.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/9211.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Oboz TV", Oboz TV
 http://play.lanet.tv/index/9032.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="Тернопіль 1", Тернопіль 1
-http://play.lanet.tv/index/1026.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="EuroNews", EuroNews
-http://play.lanet.tv/index/9070.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Quiz TV", Quiz TV
 http://play.lanet.tv/index/9213.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Niki Kids", Niki Kids
@@ -345,8 +253,6 @@ http://play.lanet.tv/index/9216.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 http://play.lanet.tv/index/9217.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Караван TV", Караван TV
 http://play.lanet.tv/index/9218.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
-#EXTINF:-1 tvg-name="EuroNews HD", EuroNews HD
-http://play.lanet.tv/index/9111.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="FilmUA Live", FilmUA Live
 http://play.lanet.tv/index/9219.m3u8?key=TBxzRXL7JrudE0ze&q=max&ssl=false
 #EXTINF:-1 tvg-name="Navigator TV", Navigator TV
