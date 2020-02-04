@@ -33,6 +33,7 @@ github_username:  jekyll
 remote_theme: IPTV
 plugins:
   - jekyll-feed
+  - jekyll-sass-converter
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -55,3 +56,8 @@ plugins:
 #   - vendor/ruby/
 
 
+# SASS
+sass:
+  style: compressed
+  sourcemap: never
+  sass_dir: _sass
